@@ -78,7 +78,6 @@ The *final conversion stage* requires the most optimization, as it has the highe
 ## 🚀 Outcome
 Identified key bottlenecks in marketing funnel and suggested data-driven improvements.
 
----
 
 ## 👩‍💻 Author
 
