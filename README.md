@@ -6,7 +6,8 @@ Marketing-Funnel-Conversion-Performance-Analysis
 - Measure conversion rates at each stage  
 - Identify drop-offs and performance gaps  
 - Evaluate channel and campaign effectiveness  
-- Provide data-driven recommendations to improve conversions  
+- Provide data-driven recommendations to improve conversions
+  
 ## 📁 Dataset
 Bank Marketing Dataset (UCI)
 
