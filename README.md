@@ -2,8 +2,11 @@
 Marketing-Funnel-Conversion-Performance-Analysis
 
 ## 🔍 Objective
-Analyze customer journey from leads to conversion using Bank Marketing Dataset.
-
+- Analyze the marketing funnel from contact to conversion  
+- Measure conversion rates at each stage  
+- Identify drop-offs and performance gaps  
+- Evaluate channel and campaign effectiveness  
+- Provide data-driven recommendations to improve conversions  
 ## 📁 Dataset
 Bank Marketing Dataset (UCI)
 
